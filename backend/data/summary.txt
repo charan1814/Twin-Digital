@@ -1,0 +1,10 @@
+I am a Data Science aspirant with 1 year of experience in Machine Learning and Data Analysis. My expertise includes ML, Deep Learning, NLP, and LLM-based systems.
+
+
+
+
+Currently, I'm focused on developing scalable, real-world AI solutions , specifically building RAG pipelines and implementing transformer architectures from scratch.
+
+
+
+My background includes analyzing large-scale datasets for customer trends , building predictive models for restaurant recommendations , and developing computer vision applications like sports personality classifiers.

@@ -1,0 +1,26 @@
+{
+    "full_name": "Jai Sai Charan Kumar",
+    "name": "Charan",
+    "current_role": "Data Science Aspirant",
+    "location": "Hyderabad, Telangana, India",
+    "email": "saicharangurajala@gmail.com",
+    "linkedin": "linkedin.com/in/sai-charan-gurajala-a7b360344",
+    "specialties": [
+      "Machine Learning & Deep Learning",
+      "Natural Language Processing (NLP) & LLMs",
+      "RAG Pipelines & Generative AI"
+    ],
+    "years_experience": 1,
+    "education": [
+      {
+        "degree": "Bachelor Degree in CSE",
+        "institution": "Rajiv Gandhi University of Knowledge Technologies - Ongole, India",
+        "year": "2026"
+      },
+      {
+        "degree": "Pre-University Education",
+        "institution": "Rajiv Gandhi University of Knowledge Technologies - Ongole, India",
+        "year": "2022"
+      }
+    ]
+  }
